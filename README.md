@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=harune-pg&show_icons=true&theme=transparent" alt="harune-pg's GitHub stats">
+<img align="right" width=49% src="https://github-readme-stats.vercel.app/api?username=harune-pg&show_icons=true&theme=transparent" alt="harune-pg's GitHub stats">
 
 ### Primary Stack
 ![Primary Stack](https://skillicons.dev/icons?i=py,django)
