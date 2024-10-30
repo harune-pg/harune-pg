@@ -4,5 +4,5 @@
 
 ### Primary Stack
 ![Primary Stack](https://skillicons.dev/icons?i=py,django)
-### Currently Learning
-![Currently Learning](https://skillicons.dev/icons?i=react,aws)
+<!-- ### Currently Learning -->
+<!-- ![Currently Learning](https://skillicons.dev/icons?i=react,aws) -->
